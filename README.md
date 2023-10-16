@@ -1,5 +1,6 @@
+## Olá! Eu sou o Alan Salvatera e ainda não tive tempo de editar está área. Em breve finalizo!
 
-### 👀 Em desenvolvimento ...
+### 👨‍💻 Em desenvolvimento ...
 
 
 <!---
