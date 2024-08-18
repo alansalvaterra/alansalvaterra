@@ -24,10 +24,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>  -->
 </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alansalvaterra&show_icons=true&locale=en&layout=compact" alt="alansalvaterra" /></p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alansalvaterra&" alt="alansalvaterra" /></p>
 
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alansalvaterra&show_icons=true&locale=en&layout=compact" alt="alansalvaterra" /></p>
 
 <p align="center"> 
 <a href="https://linkedin.com/in/alansalvaterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alansalvaterra" height="30" width="40" /></a>
